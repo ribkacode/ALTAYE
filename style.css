@@ -95,6 +95,11 @@
 .container h2{
   text-align: center;
 }
+.header{
+    font-weight: bold;
+    color: rgb(0,138,43);
+    font-size: 4rem;
+}
 /*---responsive*/
 @media only screen and(min-width:768px) and(max-width:991px){
     .carousel-caption{
